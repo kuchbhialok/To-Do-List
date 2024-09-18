@@ -1,0 +1,22 @@
+body{
+    background-color: hsla(33, 79%, 34%, 0.889);
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#container{
+    height: auto;
+    width: 600px;
+    border: 1px solid black;
+    background-color: hsla(157, 97%, 49%, 0.622);
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+}
+input{
+    background-color: hsla(42, 71%, 50%, 0.762);
+}
+button{
+    cursor: pointer;
+    background-color: hsla(40, 87%, 52%, 0.837);
+}
